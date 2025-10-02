@@ -14,16 +14,24 @@ A simple, reusable `ProfileCard` built with React, TypeScript, and Tailwind CSS.
 - Tailwind CSS (PostCSS + Autoprefixer)
 
 ## Getting Started
-1. clone repository 
-```git clone https://github.com/vpendo/profile_card.git ```
+1. Clone the repository
+```bash
+git clone https://github.com/vpendo/profile_card.git
+```
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start dev server:
-   ```bash
-   npm run dev
-   ```
+2. Go into the project folder
+```bash
+cd profile_card/my_profile_card
+```
+
+3. Install dependencies
+```bash
+npm install
+```
+
+4. Start the dev server
+```bash
+npm run dev
+```
 
 
