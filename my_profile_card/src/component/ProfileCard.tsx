@@ -1,4 +1,3 @@
-// src/component/ProfileCard.tsx
 export interface ProfileCardProps {
   fullName: string
   title: string
