@@ -34,4 +34,7 @@ npm install
 npm run dev
 ```
 
+## Deployment
+- Live link: [pendoprofilecard.netlify.app](https://pendoprofilecard.netlify.app/)
+
 
